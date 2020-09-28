@@ -1,1 +1,1 @@
-good vue boilerplate code
+Basic vue, vuetify boilerplate code
